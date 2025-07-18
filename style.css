@@ -80,6 +80,21 @@ button[type="submit"]:hover {
 }
 
 
+.Home {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    max-width: 300px;
+    max-height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 8px ;
+    padding: 30px; 
+    gap: 15px;
+    align-self: center;
+    justify-self: center;
+
+}
 
 #login{
     width: 300px;
